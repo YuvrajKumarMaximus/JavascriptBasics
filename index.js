@@ -1,0 +1,1 @@
+console.log(false, 234243, 'string', { name:"Alfred" })
